@@ -1,0 +1,4 @@
+{
+  "cmake.launchBehavior": "breakAndReuseTerminal",
+  "liveServer.settings.port": 5501
+}
